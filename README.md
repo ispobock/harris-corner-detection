@@ -15,6 +15,6 @@ C++ implementation for Harris Corner Detection algorithm
 
 
 ## Results
-[test_Image_with_Corners.png](test_imgs/test_Image_with_Corners.png)
+![test_Image_with_Corners.png](test_imgs/test_Image_with_Corners.png)
 
-[test2_Image_with_Corners.png](test_imgs/test_Image_with_Corners.png)
+![test2_Image_with_Corners.png](test_imgs/test2_Image_with_Corners.png)
